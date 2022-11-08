@@ -10,11 +10,11 @@ This is a Kanban app developed based on the MERN stack framework (MySQL, Express
 
 To start the application, create two command lines, one to start your local server, and another to start your React App.
 In one command line:
-$ cd client
-$ npm i --legacy-peer-deps
-$ npm run start
+$cd client
+$npm i --legacy-peer-deps
+$npm run start
 
 In another command line:
-$ cd server
-$ npm i
-$ nodemon
+$cd server
+$npm i
+$nodemon
